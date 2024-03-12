@@ -1,3 +1,17 @@
+/*
+=========================================================
+Files:  App.js 
+        App.css
+        /components 
+        /context 
+        /services
+Assignment: Lab 8, Exercise A,B,C
+Author(s): Jung-Hwan Park (Parts A, B), Ibrahim Wani (Part C)
+Submission: March 11, 2024
+Description: React.
+=========================================================
+*/
+
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import { ProductsProvider } from './context/ProductsContext'; // Adjust the import path as necessary
